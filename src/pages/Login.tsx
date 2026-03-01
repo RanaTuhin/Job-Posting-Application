@@ -7,6 +7,7 @@ const Login = () => {
         <input className="form-control mb-3" placeholder="Email" />
         <input
           className="form-control mb-3"
+          id="password"
           type="password"
           placeholder="Password"
         />
