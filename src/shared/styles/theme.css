@@ -1,0 +1,20 @@
+:root {
+  --font-heading: "Sora", "Segoe UI", sans-serif;
+  --font-body: "Manrope", "Segoe UI", sans-serif;
+
+  --color-bg: #f4f8f6;
+  --color-surface: rgba(255, 255, 255, 0.82);
+  --color-surface-solid: #ffffff;
+  --color-border: #d6e3de;
+  --color-heading: #14231f;
+  --color-body: #3b4f49;
+
+  --color-brand: #0f766e;
+  --color-brand-dark: #0b5e58;
+  --color-accent: #e67e22;
+
+  --shadow-sm: 0 8px 20px rgba(9, 40, 34, 0.08);
+  --shadow-lg: 0 18px 50px rgba(9, 40, 34, 0.16);
+  --radius-lg: 20px;
+  --radius-md: 14px;
+}
